@@ -182,7 +182,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.ConfigApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -204,6 +204,10 @@
         <value defaultName="singleModule" />
       </option>
       <patterns />
+    </configuration>
+    <configuration name="BlogEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="blog-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cll.mayj.BlogEurekaApplication" />
     </configuration>
     <configuration name="ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="blog-config" />
@@ -231,6 +235,10 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ConfigApplication" />
+      <item itemvalue="Spring Boot.BlogEurekaApplication" />
+    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
