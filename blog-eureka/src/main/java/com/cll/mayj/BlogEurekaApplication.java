@@ -1,12 +1,12 @@
-package com.cll.mayj.config;
+package com.cll.mayj;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ConfigApplication {
+public class BlogEurekaApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ConfigApplication.class, args);
+        SpringApplication.run(BlogEurekaApplication.class, args);
     }
 }
