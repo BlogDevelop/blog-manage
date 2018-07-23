@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="blog-config" />
         <module name="blog-eureka" />
+        <module name="blog-server" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="blog-config" target="1.8" />
       <module name="blog-eureka" target="1.8" />
+      <module name="blog-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/blog-config/blog-config.iml" filepath="$PROJECT_DIR$/blog-config/blog-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/blog-eureka/blog-eureka.iml" filepath="$PROJECT_DIR$/blog-eureka/blog-eureka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/blog-manage.iml" filepath="$PROJECT_DIR$/.idea/blog-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/blog-server/blog-server.iml" filepath="$PROJECT_DIR$/blog-server/blog-server.iml" />
     </modules>
   </component>
 </project>
